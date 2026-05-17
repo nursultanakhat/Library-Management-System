@@ -1,1 +1,20 @@
-[{"title": "Harry Potter", "author": "Rowling"}]
+{
+    "books": [
+        {
+            "title": "Harry Potter",
+            "author": "Rowlind",
+            "status": "available"
+        },
+        {
+            "title": "Ronaldo",
+            "author": "Nurs",
+            "status": "available"
+        }
+    ],
+    "users": [
+        {
+            "name": "nursultan008",
+            "email": "nursu@lran"
+        }
+    ]
+}
