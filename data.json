@@ -2,12 +2,7 @@
     "books": [
         {
             "title": "Harry Potter",
-            "author": "Rowlind",
-            "status": "available"
-        },
-        {
-            "title": "Ronaldo",
-            "author": "Nurs",
+            "author": "Rowling",
             "status": "available"
         }
     ],
@@ -15,6 +10,10 @@
         {
             "name": "nursultan008",
             "email": "nursu@lran"
+        },
+        {
+            "name": "nursultan",
+            "email": "nursultanakaht08@gmai.com"
         }
     ]
 }
